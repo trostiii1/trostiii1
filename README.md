@@ -1,16 +1,20 @@
-## Hi there 👋
+Приветствую вас.  
+Я junior Python-разработчик / скриптер / любитель ИИ
 
-<!--
-**trostiii1/trostiii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 💻 Навыки  
+- Языки: Python, немного JavaScript  
+- Направления:  
+  - Скрипты и автоматизация  
+  - Парсеры  
+  - Мини-ИИ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻  Проекты:
+
+
+
+
+💻 Контакты  
+- Email:  alfavig46@gmail.com  
+- Telegram: @trostiii
